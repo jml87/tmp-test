@@ -1,4 +1,4 @@
-FROM registry-docker:5000/php:7.1-cli
+FROM php:7.1-cli
 
 WORKDIR /home
 EXPOSE 80
