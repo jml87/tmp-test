@@ -57,7 +57,7 @@ $textListPrimes = substr($textListPrimes, 0, -2);
 
 <meta charset="utf-8">
 
-<title>L'hôte et des nombres</title>
+<title>L'hôte et des nombres - Version 2</title>
 
 <style>
     h1 {
